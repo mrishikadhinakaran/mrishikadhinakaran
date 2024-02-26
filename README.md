@@ -2,7 +2,8 @@
 - 👀 I'm a student working in various concepts of the computing programs
 - 🌱 I’m currently learning java DSA and Full-Stack
 - 📫 How to reach me @mrishikadhinakaran@gmail.com
-connect with me through: www.linkedin.com/in/mrishika-dhinakaran
+
+   connect with me through: www.linkedin.com/in/mrishika-dhinakaran
 
 
 
