@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm mrishika dhinakaran</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrishikadhinakaran" alt="mrishikadhinakaran" /></a> </p>
-
 - 🔭 I’m currently working on **various concepts of computing programs**
 
 - 🌱 I’m currently learning **java,DSA, full-stack complete cours.**
