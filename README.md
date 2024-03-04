@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **various concepts of computing programs**
 
-- 🌱 I’m currently learning **java,DSA, full-stack complete cours.**
-
-- 👯 I’m currently learning **java-DSA and Full-Stack**
+- 🌱 I’m currently learning **java,DSA, full-stack complete course.**
 
 - 💬 Ask me about **java, DSA and more...**
 
