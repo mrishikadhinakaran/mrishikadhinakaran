@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **various concepts of computing programs**
 
-- 🌱 I’m currently learning **java,DSA, full-stack complete course.**
+- 🌱 I’m currently learning **java-DSA, machine-learning.**
 
-- 💬 Ask me about **java, DSA and more...**
+- 💬 Ask me about **java,-DSA and more...**
 
 - 📫 How to reach me **mrishikadhinakaran@gmail.com**
 
