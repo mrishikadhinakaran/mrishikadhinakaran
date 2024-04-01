@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm mrishika dhinakaran</h1>
 <h3 align="center">A developer from India</h3>
 
-- 🔭 I’m currently working on **various concepts of computing programs**
-
-- 🌱 I’m currently learning **java,DSA, machine learning courses**
-
-- 👯 I’m currently learning **java-DSA and machine learning**
-
-- 💬 Ask me about **java, DSA and ML, DL and more...**
-
 - 📫 How to reach me **mrishikadhinakaran@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/mrishika-dhinakaran](www.linkedin.com/in/mrishika-dhinakaran)
