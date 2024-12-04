@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mrishika Dhinakaran</h1>
 <h3 align="center">A passionate Machine learning Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrishikadhinakaran&label=Profile%20views&color=0e75b6&style=flat" alt="mrishikadhinakaran" /> </p>
-
 - 🔭 I’m currently working on [LLM from stratch](https://github.com/mrishikadhinakaran/LLM-model)
 
 - 🌱 I’m currently learning **DSA and Deep learning algorithms**
