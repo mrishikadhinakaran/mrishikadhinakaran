@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrishika Dhinakaran</h1>
 <h3 align="center">A passionate Machine learning Engineer from India</h3>
 
-- 🔭 I’m currently working on [LLM from stratch](https://github.com/mrishikadhinakaran/LLM-model)
+- 🔭 I’m currently working on [Backend development]
 
 - 🌱 I’m currently learning **DSA and Deep learning algorithms**
 
